@@ -17,13 +17,13 @@
 <p align="center">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-- 🌱 I’m currently learning **-- BSc (Hons) in Computing (Software Engineering Pathway) - at NIBM**
+- 🌱 I’m currently learning **--> BSc (Hons) in Computing (Software Engineering Pathway) - at NIBM**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **--> Anything**
 
-- 📫 How to reach me **sachiruushan@gamil.com**
+- 📫 How to reach me **--> sachiruushan@gamil.com**
 
-- ⚡ Fun fact **Call me as Bhanu**
+- ⚡ Fun fact **--> Call me as Bhanu**
 
 ---
 
