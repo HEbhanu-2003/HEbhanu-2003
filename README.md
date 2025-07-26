@@ -150,7 +150,7 @@
          alt="bhanuka" height="30"/></a>
       <br>
     </p>
-     <p align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px">
+     <p align="center"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="75px" height="75px">
 
  ---
 
