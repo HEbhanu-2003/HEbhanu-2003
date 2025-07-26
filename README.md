@@ -13,8 +13,7 @@
 
 ---
 
-<h3 align="center">About Me</h3>
-<p align="center">
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;About Me :</h3>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 🌱 I’m currently learning **--> BSc (Hons) in Computing (Software Engineering Pathway) - at NIBM**
@@ -27,7 +26,7 @@
 
 ---
 
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+<h2 align="center"><u><b> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> Knowledge Base</b></u></h2>
 
 <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
@@ -108,17 +107,17 @@
       <br>
     </p>
 
-  ---
-<h3 align="center">My Statistics :</h3>
-<p align="center">
+ ---
+ 
+<h3 align="center">My Statistics:</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="55">
+  <p align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HEbhanu-2003&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HEbhanu-2003&theme=dark&hide_border=false" /> 
+</td>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=HEbhanu-2003&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-----
+---
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
