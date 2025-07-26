@@ -101,7 +101,13 @@
    <a href="https://www.codeblocks/en" target="_blank"> 
     <img src="https://img.shields.io/badge/codeblocks-AF38EB?style=for-the-badge&logo=codeblocks&logoColor=white"
       alt="codeblocks"/>
+   </a>
+
+   <p align="center">
      
+   <a href="https //www.linux.com/en" target="_blank"> 
+    <img src="https://img.shields.io/badge/linux-E87200?style=for-the-badge&logo=linux&logoColor=white"
+      alt="linux"/>  
   
 ---
 
