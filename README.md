@@ -79,44 +79,32 @@
   
 ---
 
-<h3 align="center">Connect with me</h3>
-
-<div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://dev.to/example" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://medium.com/@example" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://codepen.io/@example" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
-    </a>
-  </div>
-  
-  <div>
-    <a  href="https://fb.com/sachiru bhanuka" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"  alt="sachiru bhanuka" height="40" width="50" /></a>
-    <a  href="https://instagram.com/saciru hewage" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  alt="saciru hewage" height="40" width="50" /></a>
-    <a  href="https://discord.gg/1bhanuka_11775" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"  alt="1bhanuka_11775" height="40" width="50" /></a>
-  </div>
-
----
-
-<h3 align="center">Reach me</h3>
-
+<h3 align="center"> ☎️ Contact With Me</h3>
 <p align="center">
-  <a  href="http://t.me/ushan12345678" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="sachiru bhanuka"/>
-  </a>
-  <a href="mailto:sachiru bhanuka@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="sachiru bhanuka"/>
-  </a>
-</p>
+      <a href="https://www.facebook.com/share/15mhKXuPXr/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="15mhKXuPXr" height="30"/></a>
+      <a href="sachiruushan@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="sachiruushan" height="30"/></a>
+      <a href="http://t.me/ushan12345678" target="blank"><img align="center"
+         src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="ushan sachiru" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://instagram.com/sachiru hewage" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="sachiru hewage" height="30"/></a>
+      <a href="https://wa.me/qr/CFVSA6M3PKHCF1" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="sachiru bhanuka" height="30"/></a>
+      <a href="https://wa.me/qr/CFVSA6M3PKHCF1" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="sachiru bhanuka" height="30"/></a>
+      <br>
+    </p>
 
-----
+  ---
 
 ### My Statistics:
 
