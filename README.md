@@ -109,8 +109,8 @@
 
  ---
  
-<h3 align="center">My Statistics:</h3>
-<h3 align="center"><img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="55">
+<h3 align="center">My Statistics :</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="65">
   <p align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=HEbhanu-2003&theme=dark&show_icons=true&count_private=true" />
   <br></br>
@@ -124,7 +124,7 @@
     alt="example" />
 </p>
 
-------
+---
 
 
 
