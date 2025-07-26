@@ -44,12 +44,12 @@
   </a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://img.shields.io/badge/cplusplus-original.svg?style=for-the-badge&logo=html5&logoColor=white"
+    <img src="https://img.shields.io/badge/cplusplus-original.svg?style=for-the-badge&logo=cplusplus&logoColor=white"
       alt="cplusplus"/> 
   </a>
  
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://img.shields.io/badge/csharp-original.svg?style=for-the-badge&logo=typescript&logoColor=white"
+    <img src="https://img.shields.io/badge/csharp-original.svg?style=for-the-badge&logo=csharp&logoColor=white"
       alt="csharp"/>
   </a>
   
@@ -65,7 +65,7 @@
 <p align="center">
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/dot-net-original.svg?style=for-the-badge&logo=c&logoColor=white"
+    <img src="https://img.shields.io/badge/dot-net-original.svg?style=for-the-badge&logo=dot-net&logoColor=white"
       alt="dot-net"/>
   </a>
 
@@ -73,7 +73,7 @@
 <p align="center">
 
  <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://img.shields.io/badge/photoshop-line.svg?style=for-the-badge&logo=c&logoColor=white"
+    <img src="https://img.shields.io/badge/photoshop-line.svg?style=for-the-badge&logo=photoshop&logoColor=white"
       alt="photoshop"/>
   </a>
   
@@ -88,7 +88,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="sachiruushan" height="30"/></a>
       <a href="http://t.me/ushan12345678" target="blank"><img align="center"
-         src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"
          alt="ushan sachiru" height="30"/></a>
     </p>
   <p align="center">
@@ -98,9 +98,9 @@
       <a href="https://wa.me/qr/CFVSA6M3PKHCF1" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="sachiru bhanuka" height="30"/></a>
-      <a href="https://wa.me/qr/CFVSA6M3PKHCF1" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-         alt="sachiru bhanuka" height="30"/></a>
+      <a href="https://discord/1bhanuka_11775" target="blank"><img align="center"
+         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+         alt="bhanuka" height="30"/></a>
       <br>
     </p>
 
