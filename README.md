@@ -152,7 +152,9 @@
     </p>
 
  ---
- 
+
+ <h3 align="center">My Statistics :</h3>
+<p align="center"><img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="75">
 <p align="center">
 <table align="center">
 <tr border="none">
