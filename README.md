@@ -10,7 +10,8 @@
 
 ---
 
-### About Me:
+<h3 align="center">About Me</h3>
+<p align="center">
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 - 🌱 I’m currently learning **-- BSc (Hons) in Computing (Software Engineering Pathway) - at NIBM**
@@ -105,8 +106,8 @@
     </p>
 
   ---
-
-### My Statistics:
+<h3 align="center">My Statistics :</h3>
+<p align="center">
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=HEbhanu-2003&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
 | --- | --- |
