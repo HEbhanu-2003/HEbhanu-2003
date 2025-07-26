@@ -47,12 +47,14 @@
   </a>
   
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://img.shields.io/badge/cplusplus-original.svg?style=for-the-badge&logo=cplusplus&logoColor=white"
+    <img src="https://img.shields.io/badge/cplusplus-FFBBED.svg?style=for-the-badge&logo=cplusplus&logoColor=white"
       alt="cplusplus"/> 
   </a>
- 
+  
+ <p align="center">
+   
   <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://img.shields.io/badge/csharp-original.svg?style=for-the-badge&logo=csharp&logoColor=white"
+    <img src="https://img.shields.io/badge/csharp-EF008C.svg?style=for-the-badge&logo=csharp&logoColor=white"
       alt="csharp"/>
   </a>
   
@@ -60,7 +62,7 @@
 <p align="center">
 
 <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-wordmark.svg?style=for-the-badge&logo=mysql&logoColor=black"
+    <img src="https://img.shields.io/badge/mysql-808080.svg?style=for-the-badge&logo=mysql&logoColor=black"
       alt="mysql"/> 
   </a>
 
@@ -75,10 +77,31 @@
   <h3 align="center"> 👉 Software</h3>
 <p align="center">
 
- <a href="https://www.photoshop.com/en" target="_blank"> 
-    <img src="https://img.shields.io/badge/photoshop-line.svg?style=for-the-badge&logo=photoshop&logoColor=white"
-      alt="photoshop"/>
+ <a href="https://www.adobephotoshop.com/en" target="_blank"> 
+    <img src="https://img.shields.io/badge/adobephotoshop-43AAB9?style=for-the-badge&logo=adobephotoshop&logoColor=white"
+      alt="adobephotoshop"/>
   </a>
+  <a href="https://www.microsoftvisualstudio.com/en" target="_blank"> 
+    <img src="https://img.shields.io/badge/visual studio-F1C330.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
+      alt="visualstudio"/>
+  </a>
+   <a href="https://www.apachenetbeans/en" target="_blank"> 
+    <img src="https://img.shields.io/badge/apachenetbeans-EA205E.svg?style=for-the-badge&logo=apachenetbeans&logoColor=white"
+      alt="apachenetbeans"/>
+ 
+   <p align="center">
+     
+  </a>
+  <a href="https://www.intellijidea.com/en" target="_blank"> 
+    <img src="https://img.shields.io/badge/intellijidea-5C0001?style=for-the-badge&logo=intellijidea&logoColor=white"
+      alt="intellijidea"/>
+  </a>
+
+   </a>
+   <a href="https://www.codeblocks/en" target="_blank"> 
+    <img src="https://img.shields.io/badge/codeblocks-AF38EB?style=for-the-badge&logo=codeblocks&logoColor=white"
+      alt="codeblocks"/>
+     
   
 ---
 
