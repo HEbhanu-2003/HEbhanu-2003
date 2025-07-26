@@ -20,6 +20,62 @@
 - 📫 How to reach me **sachiruushan@gamil.com**
 
 - ⚡ Fun fact **Call me as Bhanu**
+
+---
+
+<h2 align="center"><u><b>Knowledge Base</b></u></h2>
+
+<p align="center">
+  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+</p>
+
+
+
+<h3 align="center">Languages</h3>
+<p align="center">
+  
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+      alt="java"/> 
+  </a>
+  
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://img.shields.io/badge/cplusplus-original.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="cplusplus"/> 
+  </a>
+ 
+  <a href="https://www.w3schools.com/cs/" target="_blank"> 
+    <img src="https://img.shields.io/badge/csharp-original.svg?style=for-the-badge&logo=typescript&logoColor=white"
+      alt="csharp"/>
+  </a>
+  
+<h3 align="center">Database</h3>
+<p align="center">
+
+<a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-wordmark.svg?style=for-the-badge&logo=mysql&logoColor=black"
+      alt="mysql"/> 
+  </a>
+
+  <h3 align="center">Framework</h3>
+<p align="center">
+
+<a href="https://dotnet.microsoft.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/dot-net-original.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="dot-net"/>
+  </a>
+
+  <h3 align="center">Software</h3>
+<p align="center">
+
+ <a href="https://www.photoshop.com/en" target="_blank"> 
+    <img src="https://img.shields.io/badge/photoshop-line.svg?style=for-the-badge&logo=c&logoColor=white"
+      alt="photoshop"/>
+  </a>
   
 ---
 
@@ -60,12 +116,7 @@
   </a>
 </p>
 
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/> </a> </p>
-
----
+----
 
 ### My Statistics:
 
