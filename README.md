@@ -34,7 +34,7 @@
 
 
 
-<h3 align="center">Languages</h3>
+<h3 align="center"> 👉 Languages</h3>
 <p align="center">
   
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -56,7 +56,7 @@
       alt="csharp"/>
   </a>
   
-<h3 align="center">Database</h3>
+<h3 align="center"> 👉 Database</h3>
 <p align="center">
 
 <a href="https://www.mysql.com/" target="_blank"> 
@@ -64,7 +64,7 @@
       alt="mysql"/> 
   </a>
 
-  <h3 align="center">Framework</h3>
+  <h3 align="center"> 👉 Framework</h3>
 <p align="center">
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
@@ -72,7 +72,7 @@
       alt="dot-net"/>
   </a>
 
-  <h3 align="center">Software</h3>
+  <h3 align="center"> 👉 Software</h3>
 <p align="center">
 
  <a href="https://www.photoshop.com/en" target="_blank"> 
