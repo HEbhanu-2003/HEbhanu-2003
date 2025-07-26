@@ -18,6 +18,8 @@
 
 - 🌱 I’m currently learning **--> BSc (Hons) in Computing (Software Engineering Pathway) - at NIBM**
 
+- 🧑‍🎓 I’m an Undergraduate at NIBM
+
 - 💬 Ask me about **--> Anything**
 
 - 📫 How to reach me **--> sachiruushan@gamil.com**
