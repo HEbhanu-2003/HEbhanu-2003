@@ -56,21 +56,26 @@
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
-  <a href="https://www.java.com" target="_blank"> 
+  <a href="https://www.java.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
   </a>
   
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img src="https://img.shields.io/badge/cplusplus-FFBBED.svg?style=for-the-badge&logo=cplusplus&logoColor=white"
+  <a href="https://www.cplusplus.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/cplusplus-FFBBED.svg?style=for-the-badge&logo=cplusplus&logoColor=black"
       alt="cplusplus"/> 
   </a>
   
  <p align="center">
    
-  <a href="https://www.w3schools.com/cs/" target="_blank"> 
-    <img src="https://img.shields.io/badge/csharp-EF008C.svg?style=for-the-badge&logo=csharp&logoColor=white"
+  <a href="https://www.csharp.com.com/cs/" target="_blank"> 
+    <img src="https://img.shields.io/badge/csharp-EF008C.svg?style=for-the-badge&logo=csharp&logoColor=black"
       alt="csharp"/>
+  </a>
+
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/javascript-FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/>
   </a>
   
 <h3 align="center"> 👉 Database</h3>
@@ -97,7 +102,7 @@
       alt="adobephotoshop"/>
   </a>
   <a href="https://www.microsoftvisualstudio.com/en" target="_blank"> 
-    <img src="https://img.shields.io/badge/visual studio-F1C330.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
+    <img src="https://img.shields.io/badge/visual studio-C185E8.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
       alt="visualstudio"/>
   </a>
    <a href="https://www.apachenetbeans/en" target="_blank"> 
