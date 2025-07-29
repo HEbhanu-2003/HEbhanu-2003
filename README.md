@@ -136,7 +136,7 @@
       <a href="https://www.facebook.com/share/15mhKXuPXr/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="15mhKXuPXr" height="30"/></a>
-      <a href="sachiruushan@gmail.com" target="blank"><img align="center"
+      <a href="https://www.gmail.sachiruushan@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="sachiruushan" height="30"/></a>
       <a href="http://t.me/ushan12345678" target="blank"><img align="center"
