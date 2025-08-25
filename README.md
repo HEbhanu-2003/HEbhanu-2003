@@ -53,7 +53,7 @@
 <p align="center">
   
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
+    <img src="https://img.shields.io/badge/C%20programming-454417.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
   </a>
   <a href="https://www.java.com/" target="_blank"> 
