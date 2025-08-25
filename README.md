@@ -90,7 +90,7 @@
 <p align="center">
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/dotnet-CC2927.svg?style=for-the-badge&logo=dot-net&logoColor=white"
+    <img src="https://img.shields.io/badge/dot-net-341769.svg?style=for-the-badge&logo=dot-net&logoColor=white"
       alt="dot-net"/>
   </a>
 
