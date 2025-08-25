@@ -82,15 +82,15 @@
 <p align="center">
 
 <a href="https://www.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-808080.svg?style=for-the-badge&logo=mssql&logoColor=black"
-      alt="mssql"/> 
+    <img src="https://img.shields.io/badge/Microsoft_Sql_Server-808080.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=black"
+      alt="microsoft-sql-server"/> 
   </a>
 
   <h3 align="center"> 👉 Framework</h3>
 <p align="center">
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg?style=for-the-badge&logo=dot-net&logoColor=white"
+    <img src="https://img.shields.io/badge/dotnet-CC2927.svg?style=for-the-badge&logo=dot-net&logoColor=white"
       alt="dot-net"/>
   </a>
 
