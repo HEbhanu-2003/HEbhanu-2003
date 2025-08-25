@@ -86,7 +86,7 @@
       alt="microsoft-sql-server"/> 
   </a>
 
-  <h3 align="center"> 👉 Framework</h3>
+  <h3 align="center">  👉 Framework</h3>
 <p align="center">
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
