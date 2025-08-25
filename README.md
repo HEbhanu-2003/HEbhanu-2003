@@ -81,16 +81,16 @@
 <h3 align="center"> 👉 Database</h3>
 <p align="center">
 
-<a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-808080.svg?style=for-the-badge&logo=mysql&logoColor=black"
-      alt="mysql"/> 
+<a href="https://www.microsoft.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-808080.svg?style=for-the-badge&logo=mssql&logoColor=black"
+      alt="mssql"/> 
   </a>
 
   <h3 align="center"> 👉 Framework</h3>
 <p align="center">
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/dot-net-original.svg?style=for-the-badge&logo=dot-net&logoColor=white"
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg?style=for-the-badge&logo=dot-net&logoColor=white"
       alt="dot-net"/>
   </a>
 
