@@ -85,6 +85,9 @@
     <img src="https://img.shields.io/badge/Microsoft_Sql_Server-808080.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=black"
       alt="microsoft-sql-server"/> 
   </a>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-808080.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=black"
+      alt="mssql"/> 
 
   <h3 align="center">  👉 Framework</h3>
 <p align="center">
