@@ -77,6 +77,13 @@
     <img src="https://img.shields.io/badge/javascript-FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/>
   </a>
+    </a>
+    <p align="center">
+
+  <a href="https://www.php.net" target="_blank"> 
+    <img src="https://img.shields.io/badge/php-202A44.svg?style=for-the-badge&logo=php&logoColor=black"
+      alt="php"/>
+  </a>
   
 <h3 align="center"> 👉 Database</h3>
 <p align="center">
