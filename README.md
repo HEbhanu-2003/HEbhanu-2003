@@ -165,7 +165,6 @@
  <h3 align="center">My Statistics :</h3>
 <p align="center"><img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="75">
 <p align="center">
-<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -174,7 +173,6 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HEbhanu-2003&theme=dark&hide_border=false" /> 
 </td>
 </tr>
-</table >
 
 ---
 
