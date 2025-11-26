@@ -84,6 +84,10 @@
     <img src="https://img.shields.io/badge/php-202A44.svg?style=for-the-badge&logo=php&logoColor=black"
       alt="php"/>
   </a>
+    <a href="https://html.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html-E34C26.svg?style=for-the-badge&logo=HTML&logoColor=black"
+      alt="html"/>
+  </a>
   
 <h3 align="center"> 👉 Database</h3>
 <p align="center">
