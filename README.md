@@ -65,10 +65,14 @@
     <img src="https://img.shields.io/badge/cplusplus-FFBBED.svg?style=for-the-badge&logo=cplusplus&logoColor=black"
       alt="cplusplus"/> 
   </a>
+        <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/python-808080.svg?style=for-the-badge&logo=python&logoColor=black"
+      alt="python"/>
+  </a>
   
  <p align="center">
    
-  <a href="https://www.csharp.com.com/cs/" target="_blank"> 
+  <a href="https://www.c-sharpcorner.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/csharp-EF008C.svg?style=for-the-badge&logo=csharp&logoColor=black"
       alt="csharp"/>
   </a>
@@ -76,6 +80,10 @@
   <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/javascript-FFFF00.svg?style=for-the-badge&logo=javascript&logoColor=black"
       alt="javascript"/>
+  </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/typescript-original.svg?style=for-the-badge&logo=typescript&logoColor=black"
+      alt="typescript"/>
   </a>
     </a>
     <p align="center">
@@ -85,8 +93,42 @@
       alt="php"/>
   </a>
     <a href="https://html.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34C26.svg?style=for-the-badge&logo=HTML&logoColor=black"
+    <img src="https://img.shields.io/badge/html-E34C26.svg?style=for-the-badge&logo=html&logoColor=black"
       alt="html"/>
+  </a>
+
+  <h3 align="center"> 👉 Frontend Development</h3>
+<p align="center">
+  
+  <a href="https://html.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/html5-wordmark.svg?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"/>
+  </a>
+  
+  <a href="https://react.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/react-FFBBED.svg?style=for-the-badge&logo=react&logoColor=black" 
+      alt="react"/> 
+  </a>
+  
+  <h3 align="center"> 👉 Backend Development</h3>
+<p align="center">
+
+  <a href="https://nodejs.org/en" target="_blank"> 
+    <img src="https://img.shields.io/badge/nodejs-007396.svg?style=for-the-badge&logo=nodejs&logoColor=black" 
+      alt="nodejs"/> 
+  </a>
+
+  <h3 align="center"> 👉 Mobile App Development</h3>
+  <p align="center">
+
+  <a href="https://developer.android.com/kotlin" target="_blank"> 
+    <img src="https://img.shields.io/badge/android-wordmark.svg?style=for-the-badge&logo=android&logoColor=white" 
+      alt="android"/> 
+  </a>
+  
+  <a href="https://kotlinlang.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/kotlin-C185E8.svg?style=for-the-badge&logo=kotlinlang&logoColor=white" 
+      alt="kotlinlang"/> 
   </a>
   
 <h3 align="center"> 👉 Database</h3>
@@ -135,13 +177,32 @@
    <a href="https://www.codeblocks/en" target="_blank"> 
     <img src="https://img.shields.io/badge/codeblocks-AF38EB?style=for-the-badge&logo=codeblocks&logoColor=white"
       alt="codeblocks"/>
-   </a>
 
-   <p align="center">
+   <p align="center">  
      
+   </a>
+      <a href="https://www.postman.com/downloads/" target="_blank"> 
+    <img src="https://img.shields.io/badge/getpostman-E87200?style=for-the-badge&logo=postman&logoColor=white"
+      alt="postman"/>
+   </a>
+     
+     
+  <h3 align="center"> 👉 Other</h3>
+<p align="center">  
+  
    <a href="https //www.linux.com/en" target="_blank"> 
     <img src="https://img.shields.io/badge/linux-E87200?style=for-the-badge&logo=linux&logoColor=white"
       alt="linux"/>  
+
+  <a href="https://www.arduino.cc/en/software/" target="_blank"> 
+    <img src="https://img.shields.io/badge/arduino-3186a0?style=for-the-badge&logo=arduino&logoColor=white"
+      alt="arduino"/> 
+    
+  <p align="center">  
+
+   <a href="github.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/git-3E2C00?style=for-the-badge&logo=git&logoColor=white"
+      alt="git"/> 
   
 ---
 
