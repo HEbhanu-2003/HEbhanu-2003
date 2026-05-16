@@ -239,6 +239,9 @@
       <a href="http://t.me/ushan12345678" target="blank"><img align="center"
          src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
          alt="ushan sachiru" height="30"/></a>
+   <a href="https://github.com/HEbhanu-2003" target="blank"><img align="center"
+         src="https://img.shields.io/badge/GitHub-24292E.svg?style=for-the-badge&logo=github&logoColor=white"
+         alt="HEbhanu-2003" height="30"/></a>
     </p>
   <p align="center">
       <a href="https://www.linkedin.com/in/bhanuka-hewage-se/" target="blank"><img align="center"
