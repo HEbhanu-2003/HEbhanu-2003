@@ -32,6 +32,20 @@
 
 ---
 
+<p align="center">
+  <table align="center" style="border-collapse: collapse; border: none; background: transparent;">
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px; background: transparent;">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=HEbhanu-2003&show_icons=true&theme=tokyonight&count_private=true" alt="Bhanuka's GitHub Stats" />
+      </td>
+      <td align="center" style="border: none; padding: 10px; background: transparent;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=HEbhanu-2003&theme=tokyonight" alt="Bhanuka's GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
 <h2 align="center"><u><b> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20px"> Knowledge Base</b></u></h2>
 
 <p align="center">
