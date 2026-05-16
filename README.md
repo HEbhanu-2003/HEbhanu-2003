@@ -51,21 +51,27 @@
 
 <h3 align="center"> 👉 Languages</h3>
 <p align="center">
-  
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-454417.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
+
   <a href="https://www.java.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" 
       alt="java"/> 
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/C-454417?style=for-the-badge&logo=c&logoColor=white"
+      alt="c"/>
   </a>
   
   <a href="https://www.cplusplus.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/cplusplus-FFBBED.svg?style=for-the-badge&logo=cplusplus&logoColor=black"
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
       alt="cplusplus"/> 
   </a>
-        <a href="https://www.python.org/" target="_blank"> 
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction" target="_blank"> 
+    <img src="https://img.shields.io/badge/XML-767C52?style=for-the-badge&logo=xml&logoColor=fff"
+      alt="XML"/>
+  </a>
+  
+  <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/python-808080.svg?style=for-the-badge&logo=python&logoColor=black"
       alt="python"/>
   </a>
@@ -73,7 +79,7 @@
  <p align="center">
    
   <a href="https://www.c-sharpcorner.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/csharp-EF008C.svg?style=for-the-badge&logo=csharp&logoColor=black"
+    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white"
       alt="csharp"/>
   </a>
 
@@ -89,12 +95,16 @@
     <p align="center">
 
   <a href="https://www.php.net" target="_blank"> 
-    <img src="https://img.shields.io/badge/php-202A44.svg?style=for-the-badge&logo=php&logoColor=black"
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"
       alt="php"/>
   </a>
     <a href="https://html.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34C26.svg?style=for-the-badge&logo=html&logoColor=black"
+    <img src="https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=htmx&logoColor=fff"
       alt="html"/>
+  </a>
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> 
+    <img src="https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff"
+      alt="XML"/>
   </a>
 
   <h3 align="center"> 👉 Frontend Development</h3>
@@ -106,7 +116,7 @@
   </a>
   
   <a href="https://react.dev/" target="_blank"> 
-    <img src="https://img.shields.io/badge/react-FFBBED.svg?style=for-the-badge&logo=react&logoColor=black" 
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" 
       alt="react"/> 
   </a>
   
@@ -114,8 +124,8 @@
 <p align="center">
 
   <a href="https://nodejs.org/en" target="_blank"> 
-    <img src="https://img.shields.io/badge/nodejs-007396.svg?style=for-the-badge&logo=nodejs&logoColor=black" 
-      alt="nodejs"/> 
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+      alt="nodejs"/>
   </a>
 
   <h3 align="center"> 👉 Mobile App Development</h3>
@@ -127,7 +137,7 @@
   </a>
   
   <a href="https://kotlinlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/kotlin-C185E8.svg?style=for-the-badge&logo=kotlinlang&logoColor=white" 
+    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" 
       alt="kotlinlang"/> 
   </a>
   
@@ -135,19 +145,27 @@
 <p align="center">
 
 <a href="https://www.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Microsoft_Sql_Server-ffffff.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=black"
+    <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white"
       alt="microsoft-sql-server"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-808080.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=black"
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff"
       alt="mssql"/> 
 
   <h3 align="center">  👉 Framework</h3>
 <p align="center">
 
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/dot-net-341769.svg?style=for-the-badge&logo=dot-net&logoColor=white"
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff"
       alt="dot-net"/>
+  </a>
+  <a href="https://nodejs.org/en" target="_blank"> 
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
+      alt="nodejs"/>
+  </a>
+    <a href="https://react.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" 
+      alt="react"/> 
   </a>
 
   <h3 align="center"> 👉 Software</h3>
@@ -158,18 +176,18 @@
       alt="adobephotoshop"/>
   </a>
   <a href="https://www.microsoftvisualstudio.com/en" target="_blank"> 
-    <img src="https://img.shields.io/badge/visual studio-C185E8.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
+    <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white"
       alt="visualstudio"/>
   </a>
    <a href="https://www.apachenetbeans/en" target="_blank"> 
-    <img src="https://img.shields.io/badge/apachenetbeans-EA205E.svg?style=for-the-badge&logo=apachenetbeans&logoColor=white"
+    <img src="https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"
       alt="apachenetbeans"/>
  
    <p align="center">
      
   </a>
   <a href="https://www.intellijidea.com/en" target="_blank"> 
-    <img src="https://img.shields.io/badge/intellijidea-5C0001?style=for-the-badge&logo=intellijidea&logoColor=white"
+    <img src="https://img.shields.io/badge/IntelliJIDEA-FE2857.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
       alt="intellijidea"/>
   </a>
 
@@ -185,13 +203,17 @@
     <img src="https://img.shields.io/badge/getpostman-E87200?style=for-the-badge&logo=postman&logoColor=white"
       alt="postman"/>
    </a>
+      <a href="https://developer.android.com/studio" target="_blank"> 
+    <img src="https://img.shields.io/badge/Android%20Studio-669933?style=for-the-badge&logo=androidstudio&logoColor=fff"
+      alt="postman"/>
+   </a>
      
      
   <h3 align="center"> 👉 Other</h3>
 <p align="center">  
   
    <a href="https //www.linux.com/en" target="_blank"> 
-    <img src="https://img.shields.io/badge/linux-E87200?style=for-the-badge&logo=linux&logoColor=white"
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"
       alt="linux"/>  
 
   <a href="https://www.arduino.cc/en/software/" target="_blank"> 
@@ -209,24 +231,24 @@
 <h3 align="center"> ☎️ Contact With Me</h3>
 <p align="center">
       <a href="https://www.facebook.com/share/15mhKXuPXr/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+         src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"
          alt="15mhKXuPXr" height="30"/></a>
       <a href="https://www.gmail.sachiruushan@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="sachiruushan" height="30"/></a>
       <a href="http://t.me/ushan12345678" target="blank"><img align="center"
-         src="https://img.shields.io/badge/telegram-0088CC.svg?style=for-the-badge&logo=telegram&logoColor=white"
+         src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
          alt="ushan sachiru" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/sachiru hewage" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="sachiru hewage" height="30"/></a>
+      <a href="https://www.linkedin.com/in/bhanuka-hewage-se/" target="blank"><img align="center"
+         src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff"
+         alt="bhanuka-hewage-se" height="30"/></a>
       <a href="https://wa.me/qr/CFVSA6M3PKHCF1" target="blank"><img align="center"
-         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&style=for-the-badge&logoColor=white"
          alt="sachiru bhanuka" height="30"/></a>
       <a href="https://discord/1bhanuka_11775" target="blank"><img align="center"
-         src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
+         src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"
          alt="bhanuka" height="30"/></a>
       <br>
     </p>
