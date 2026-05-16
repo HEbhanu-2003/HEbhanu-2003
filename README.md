@@ -200,7 +200,7 @@
      
    </a>
       <a href="https://www.postman.com/downloads/" target="_blank"> 
-    <img src="https://img.shields.io/badge/getpostman-E87200?style=for-the-badge&logo=postman&logoColor=white"
+    <img src="https://img.shields.io/badge/postman-E87200?style=for-the-badge&logo=postman&logoColor=white"
       alt="postman"/>
    </a>
       <a href="https://developer.android.com/studio" target="_blank"> 
