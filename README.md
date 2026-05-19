@@ -61,7 +61,7 @@
   <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="java"/></a>&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-454417?logo=c&logoColor=white" alt="c"/></a>&nbsp;
   <a href="https://www.cplusplus.com/" target="_blank"><img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="cplusplus"/></a>&nbsp;
-  <a href="https://www.c-sharpcorner.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="csharp"/></a>&nbsp;
+  <a href="https://github.com/HEbhanu-2003/Movie-Ticket-Booking-System" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="csharp"/></a>&nbsp;
   <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white" alt="php"/></a>&nbsp;
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-808080.svg?logo=python&logoColor=black" alt="python"/></a>
 </p>
