@@ -70,7 +70,7 @@
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-original.svg?logo=typescript&logoColor=black" alt="typescript"/></a>&nbsp;
   <a href="https://github.com/HEbhanu-2003/Game-Advertising-Website" target="_blank"><img src="https://img.shields.io/badge/HTML-E34C26?logo=htmx&logoColor=fff" alt="html"/></a>&nbsp;
   <a href="https://github.com/HEbhanu-2003/Game-Advertising-Website" target="_blank"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="css"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction" target="_blank"><img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML"/></a>
+  <a href="https://github.com/HEbhanu-2003/Movie-Ticket-Booking-System" target="_blank"><img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML"/></a>
 </p>
 
 ### 🎨 Frontend Development
