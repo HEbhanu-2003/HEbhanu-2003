@@ -17,11 +17,12 @@
   <tr border="none">
     <td width="50%" align="left" style="border: none; vertical-align: top;">
       
-- 🌱 I’m currently learning **--> BSc (Hons) in Computing (Software Engineering Pathway) - at NIBM**
-- 🧑‍🎓 I’m an Undergraduate at NIBM
-- 💬 Ask me about **--> Anything**
-- 📫 How to reach me **--> sachiruushan@gamil.com**
-- ⚡ Fun fact **--> Call me as Bhanu**
+* 🧑‍🎓 I'm an Undergraduate at the **National Institute of Business Management (NIBM)**, pursuing a **BSc (Hons) in Computing (Software Engineering)**.
+* 🌱 Currently diving deep into software development, enterprise architecture, and backend systems.
+* 🛠️ Exploring MVC patterns, database integrations, and full-stack development.
+* 💬 Ask me about **Java, C++, Object-Oriented Programming, or Data Structures**.
+* 📫 How to reach me **--> sachiruushan@gmail.com**
+* ⚡ Fun fact **--> You can call me Bhanu!**
 
     </td>
     <td width="50%" align="center" style="border: none;">
