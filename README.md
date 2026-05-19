@@ -92,7 +92,7 @@
 
 ### 🗄️ Database
 <p align="left">
-  <a href="https://github.com/HEbhanu-2003/Movie-Ticket-Booking-System" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" alt="microsoft-sql-server"/></a>&nbsp;
+  <a href="https://github.com/HEbhanu-2003/PizzaHut-Institute-Database" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" alt="microsoft-sql-server"/></a>&nbsp;
   <a href="https://github.com/HEbhanu-2003/Game-Advertising-Website" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="mysql"/></a>
 </p>
 
