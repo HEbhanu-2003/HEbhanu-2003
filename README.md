@@ -68,8 +68,8 @@
 <p align="left">
   <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-FFFF00.svg?logo=javascript&logoColor=black" alt="javascript"/></a>&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/typescript-original.svg?logo=typescript&logoColor=black" alt="typescript"/></a>&nbsp;
-  <a href="https://html.com/" target="_blank"><img src="https://img.shields.io/badge/HTML-E34C26?logo=htmx&logoColor=fff" alt="html"/></a>&nbsp;
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="css"/></a>&nbsp;
+  <a href="https://github.com/HEbhanu-2003/Game-Advertising-Website" target="_blank"><img src="https://img.shields.io/badge/HTML-E34C26?logo=htmx&logoColor=fff" alt="html"/></a>&nbsp;
+  <a href="https://github.com/HEbhanu-2003/Game-Advertising-Website" target="_blank"><img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="css"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/XML/Guides/XML_introduction" target="_blank"><img src="https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff" alt="XML"/></a>
 </p>
 
