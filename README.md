@@ -128,7 +128,7 @@
 
 ### 📞 Contact With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/bhanuka-hewage-se/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/bhanuka-hewage-se" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="linkedin"/></a>&nbsp;
   <a href="https://github.com/HEbhanu-2003" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292E.svg?logo=github&logoColor=white" alt="github"/></a>&nbsp;
   <a href="mailto:sachiruushan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white" alt="gmail"/></a>&nbsp;
   <a href="https://wa.me/qr/CFVSA6M3PKHCF1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" alt="whatsapp"/></a>&nbsp;
